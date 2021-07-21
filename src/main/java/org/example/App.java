@@ -36,6 +36,9 @@ public class App {
             }
             board = life(board, rowSize, columnSize);
         }
+
+        System.out.println( "GAME OVER");
+        System.out.println( "Thank you for playing");
     }
 
     public static String[][] life(String [][] board, int rowSize, int columnSize){
