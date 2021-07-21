@@ -1,4 +1,4 @@
-package org.example;
+package za.co.optisolutions;
 
 import java.util.Scanner;
 
