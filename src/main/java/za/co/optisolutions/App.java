@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Grant Hendricks
- *
+ * Conway Game Of Life
  */
 public class App {
 
